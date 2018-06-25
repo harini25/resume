@@ -4,6 +4,10 @@
     "email":"tullimilliharini1997@gmail.com",
     "mobile":"9676191400"
   },
+  "careerobjective":{
+"info":"To pursue a challenging career"
+
+},
   "education":[
     {
       "degree":"B-Tech",
@@ -22,5 +26,32 @@
         "institute":"Shoghi High School",
         "data":["2013","8.8"]
     }
-  ]
+  ],
+  "achievements":[
+    {
+      "name":"awarded as <b>1<sup>st</sup>prize</b> in <q> self-Defence</q>"
+    },
+    {
+    "name":"Got <strong>1<sup>st</sup>prize</strong> for <q> ppt presentation </q>"
+   }
+ ],
+ "technicalskills":[
+   {
+     "name":"programming languages",
+     "data":["c","java","python","php","c++"]
+   },
+   {
+     "name":"databases",
+     "data":["mysql","oracle"]
+   },
+   {
+     "name":"webtechnologies",
+     "data":["HTML","CSS","JAVASCRIPT"]
+   },
+   {
+     "name":"Libraries and FrameWorks",
+     "data":["jQuery","codeIgniter"]
+   }
+ ]
+
 }
